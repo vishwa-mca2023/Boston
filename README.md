@@ -1,6 +1,16 @@
 # Boston
-It seems like you've provided an HTML document structure that includes a reference to an external JavaScript file (boston1.js) as a module. The HTML document is fairly standard, and it also includes an empty <div> element with the id "app," which can be used for manipulating the content of the webpage dynamically with JavaScript.
+Description:
 
-However, the "readme" at the end of your code is not a valid HTML element or attribute. If you want to display text on your webpage, you can use a <p> element or some other appropriate HTML element to include your instructions or information.
+This JavaScript program retrieves and displays information about the top five earning employees in Boston, providing key details for each employee.
 
-Here's an example of how to add a readme or any other text to your HTML page:
+How to run the code:
+
+step1:Save the HTML file with .html extension.
+
+step2:Click the "Go Live" button.A new browser window will open, displaying Boston data.
+
+Future Enhancement:
+
+Implementing a search or filter feature to allow users to specify custom criteria for identifying top earners within a larger dataset.
+
+
